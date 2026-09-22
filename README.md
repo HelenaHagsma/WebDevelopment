@@ -44,3 +44,15 @@ Este repositório funciona como um índice para agrupar meus projetos em HTML, C
 > Projeto de Controle Pessoal de Finanças: https://helenahagsma.github.io/ControleDeFinancas/
 
 > Primeiros Passos em Tabelas HTML: https://helenahagsma.github.io/tables_html/
+
+> Site Loja Fictícia de artigos de rock Alta Voltagem: https://helenahagsma.github.io/AltaVoltagem/
+
+> Exercícios Box Model em CSS: https://helenahagsma.github.io/BoxModel_Exercicios/
+
+> App Fácil - layout de site fictício com HTML e CSS: https://helenahagsma.github.io/AppFacil/
+
+> HotSite The Beatles: https://helenahagsma.github.io/TheBeatles_Hotsite/
+
+> Enciclopédia Científica básica, com princípios do HTML: https://helenahagsma.github.io/exercicio1304_desweb/
+
+> Tabelas em HTML: https://helenahagsma.github.io/tables_html/
