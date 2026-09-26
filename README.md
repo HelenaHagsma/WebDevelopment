@@ -56,3 +56,5 @@ Este repositório funciona como um índice para agrupar meus projetos em HTML, C
 > Enciclopédia Científica básica, com princípios do HTML: https://helenahagsma.github.io/exercicio1304_desweb/
 
 > Tabelas em HTML: https://helenahagsma.github.io/tables_html/
+
+> Lista de Exercícios JavaScript 2026 (básico): https://helenahagsma.github.io/ExercisesJavaScript_2026/
